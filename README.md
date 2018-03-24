@@ -8,7 +8,7 @@ Tell the pitch of the music real-time or not, by using FFT
 ## Usage
 #### A simple app for recognize the pitch of music. There are two modes, real-time(unfinished) and off-line(finished).
 
-*In real-time mode, you need a microphone plugging in your computer, and the APP will show the real-time pitch that your microphone collecting.
+*In real-time mode, you need a microphone plugging in your computer, and the APP will show the real-time pitch that your microphone collecting.  
 *In off-line mode, you need two musice files. One is teacher(standard) sample, the other is the student sample. Then you can compare pitches of two  samples.
 
 
